@@ -3,7 +3,7 @@
 #Verifique se o número digitado existe no vetor
 
 import random
-vetor = [random.randint(1,10) for _ in range(10)]
+vetor = [random.randint(1,10) for i in range(10)]
 
 numero = int(input("Digite um número inteiro: "))
 #Se o número existir, imprima: O número digitado foi X e existe na posição Y
