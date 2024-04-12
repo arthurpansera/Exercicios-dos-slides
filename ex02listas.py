@@ -11,5 +11,17 @@ for i in range(5):
     i += 1
     lista.append(numeros)
 
+print(50*"-")
 print(lista)
+print(50*"-")
+lista.sort()
+print(lista)
+print(50*"-")
+lista.reverse()
+print(lista)
+print(50*"-")
+print(f"O total de valores da lista é: {len(lista)}")
+print(f"O menor valor da lista é: {min(lista)}")
+print(f"O maior valor da lista é: {max(lista)}")
+print(f"O resultado da soma de todos os valores da lista é: {sum(lista)}")
 print(50*"-")

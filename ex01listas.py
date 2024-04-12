@@ -1,4 +1,4 @@
-#Crie um algoritmo que possua duas listas vazias chamadas numerosJogador1 e numerosJogador2
+#Crie um algoritmo que possua duas listas vazias chamadas numerosJogador1 e numerosJogador
 #Em seguida, randomize um número entre 1 e 6 (vamos simular um dado) e armazene o valor na lista
 #Repita esse processo 3 vezes (como se 3 dados tivessem sido jogados) para cada um dos jogadores
 #Por último, some os valores de cada jogador, e exiba na tela qual jogador foi o vencedor

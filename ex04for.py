@@ -1,4 +1,4 @@
-#Dado o vetor [2,7,5,12,29], calcule a soma dos valores do vetor
+#Dado o vetor [2,7,5,12,29], calcule a soma dos valores do veto
 
 vetor = [2,7,5,12,29]
 soma = 0
