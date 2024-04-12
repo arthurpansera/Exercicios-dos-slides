@@ -1,4 +1,4 @@
-#Imprimir os elementos de um vetor qualque
+#Imprimir os elementos de um vetor qualquer
 #Criando um vetor:
 vetor = ["Clemer","Kléber","Índio","Bolivar","Nei","Guiñazu","Figueroa","Falcão","D'alessandro","Carlitos","Fernandão"]
 for jogador in vetor:

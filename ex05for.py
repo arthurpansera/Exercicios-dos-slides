@@ -1,4 +1,4 @@
-#Crie um vetor de 10 posições com números aleatórios (utilize o random do python
+#Crie um vetor de 10 posições com números aleatórios (utilize o random do python)
 #Em seguida, solicite ao usuário um número inteiro qualquer
 #Verifique se o número digitado existe no vetor
 

@@ -1,4 +1,4 @@
-#Calcular a soma dos números de 1 a 1
+#Calcular a soma dos números de 1 a 10
 
 soma = 0
 
