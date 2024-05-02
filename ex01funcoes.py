@@ -1,4 +1,4 @@
-#Imprimir nome
+#Pedir e imprimir nome
 #Definição da função como bloco
 """def imprimir_nome():
     nome = input("Informe seu nome:\n")
