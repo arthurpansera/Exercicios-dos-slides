@@ -15,5 +15,12 @@ matriz[1][2] = 15
 matriz[2][1] = 19
 
 print("Nova matriz:")
-for linha in matriz:
-    print(linha)
+
+print(matriz)
+
+for i in matriz:
+    print(i)
+
+for i in range(3):
+    for j in range(3):
+        print(matriz[i][j])
