@@ -9,7 +9,6 @@ matriz = [
     [4,5,6],
     [7,8,9]
 ]
-print("\n")
 
 print(matriz)
 
@@ -19,14 +18,10 @@ print(matriz)
 #for i in range(len(matriz)):
     #print(matriz[i])
 
-print("\n")
-
 #linha = i, coluna = j
 for linha in range(3):
     print(matriz[linha])
-print("\n")
 
 for linha in range(3):
     for coluna in range(3):
         print(matriz[linha][coluna])
-print("\n")
