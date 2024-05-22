@@ -12,6 +12,8 @@ matriz = [
 print("\n")
 
 print(matriz)
+#for linha in matriz:
+    #print(linha)
 print("\n")
 
 for linha in range(3):
