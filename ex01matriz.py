@@ -12,10 +12,16 @@ matriz = [
 print("\n")
 
 print(matriz)
+
 #for linha in matriz:
     #print(linha)
+
+#for i in range(len(matriz)):
+    #print(matriz[i])
+
 print("\n")
 
+#linha = i, coluna = j
 for linha in range(3):
     print(matriz[linha])
 print("\n")
